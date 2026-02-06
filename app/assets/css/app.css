@@ -1,0 +1,4 @@
+/* Prevent layout shift when scrollbar appears/disappears between pages */
+html {
+  scrollbar-gutter: stable;
+}
